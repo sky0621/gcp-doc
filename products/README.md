@@ -1,9 +1,37 @@
 # GCP Products
 
-## products
+## コンピューティング
 
-- [カテゴリ別サービス群](products/README.md)
+- [GCE](compute/gce.md)
+- [GAE](compute/gae.md)
+- [GKE](compute/gke.md)
+- [Cloud Functions](compute/cfunctions.md)
 
-## price
+## [ストレージとデータベース](storage/README.md)
 
-- [各種プライス表](price.md)
+- [GCS](storage/gcs.md)
+- [Cloud SQL](storage/csql.md)
+- [Cloud Bigtable](storage/cbigtable.md)
+- [Cloud Spanner](storage/cspanner.md)
+- [Cloud Datastore](storage/cdatastore.md)
+- [PersistentDisk(永続ディスク)](storage/persistent-disk.md)
+
+## ネットワーキング
+
+## Identity ＆ Security
+
+## APIプラットフォームとエコシステム
+
+## 管理ツール
+
+## ビッグデータ
+
+## Cloud AI
+
+## データ移行
+
+## デベロッパーツール
+
+## IoT
+
+## 生産性向上ツール
