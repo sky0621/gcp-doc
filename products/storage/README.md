@@ -2,6 +2,17 @@
 
 https://cloud.google.com/products/storage/?authuser=1&hl=ja
 
+## サマリ
+
+|サービス|スケーラブル|構造|SQL|レイテンシ|スループット|大容量|その他の特徴|
+|--|--|--|--|--|--|--|--|
+|GCS|o|-|-|-|-|-|マルチメディア、ストリーミング、アーカイブ、バックアップ|
+|Cloud SQL|-|o|o|-|-|-|MySQL/PostgreSQL|
+|Cloud Bigtable|o|ワイドカラム型|NoSQL|低|高|-|リアルタイムアクセス、IoT,FinTeck,AdTeck|
+|Cloud Spanner|o|o|o|-|-|-|ミッションクリティカル、高い可用性、FinTeck,AdTeck|
+|Cloud Datastore|o|ドキュメント指向|NoSQL|-|-|-|耐久性のあるKVデータ|
+|Google BigQuery|?|o|o|低|高|o|ペタバイトまで対応、ビッグデータの検索と処理|
+
 ## Google Cloud Storage
 
 スケーラブル、フルマネージド、高信頼性、費用効率の高いオブジェクト / blob ストア。 
