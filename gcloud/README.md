@@ -1,6 +1,4 @@
-# GCP Products
-
-https://cloud.google.com/products/?hl=ja
+# gcloud
 
 ## コンピューティング
 
@@ -19,6 +17,8 @@ https://cloud.google.com/products/?hl=ja
 - [PersistentDisk(永続ディスク)](storage/persistent-disk.md)　[＊参考＊](https://cloud.google.com/persistent-disk/?hl=ja)
 
 ## ネットワーキング
+
+- [VPC](networking/vpc.md)
 
 ## Identity ＆ Security
 
