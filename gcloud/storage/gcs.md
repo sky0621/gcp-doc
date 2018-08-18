@@ -70,4 +70,16 @@ gsutil ls -L  gs://[BUCKET_NAME]/[OBJECT_NAME]
 gsutil setmeta -h "[METADATA_KEY]:[METADATA_VALUE]" gs://[BUCKET_NAME]/[OBJECT_NAME]
 ```
 
+## 個々のオブジェクトを公開
+
+```
+gsutil acl ch -u AllUsers:R gs://[BUCKET_NAME]/[OBJECT_NAME]
+```
+
+## バケット内のすべてのオブジェクトを公開
+
+```
+gsutil iam ch allUsers:objectViewer gs://[BUCKET_NAME]
+```
+
 
