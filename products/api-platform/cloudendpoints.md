@@ -8,3 +8,6 @@
 - Extensible Service Proxy は、1 回の呼び出しあたり 1 ミリ秒以内にセキュリティと分析情報を提供
 - API の管理に Google Service Management を使用
 - ログと指標のレポートには Google Service Control を使用
+
+## 概要
+OpenAPI 仕様のバージョン 2.0 を使用して記述された API に対応
