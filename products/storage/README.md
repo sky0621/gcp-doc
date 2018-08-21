@@ -13,6 +13,10 @@ https://cloud.google.com/products/storage/?authuser=1&hl=ja
 |Cloud Datastore|o|ドキュメント指向|NoSQL|-|-|-|耐久性のあるKVデータ|
 |Google BigQuery|?|o|o|低|高|o|ペタバイトまで対応、ビッグデータの検索と処理|
 
+## Storage Selection
+
+![selection](../../img/GCP_Storage_Selection.png)
+
 ## Google Cloud Storage
 
 スケーラブル、フルマネージド、高信頼性、費用効率の高いオブジェクト / blob ストア。 
