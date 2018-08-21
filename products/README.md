@@ -18,6 +18,12 @@ https://cloud.google.com/products/?hl=ja
 - [Cloud Datastore](storage/cdatastore.md)　[＊参考＊](https://cloud.google.com/datastore/?hl=ja)
 - [PersistentDisk(永続ディスク)](storage/persistent-disk.md)　[＊参考＊](https://cloud.google.com/persistent-disk/?hl=ja)
 
+## ビッグデータ
+
+- [BigQuery](big-data/bq.md)　[＊参考＊](https://cloud.google.com/bigquery/?hl=ja)
+- [Cloud Dataflow](big-data/dataflow.md)　[＊参考＊](https://cloud.google.com/dataflow/?hl=ja)
+- [Cloud Pub/Sub](big-data/pubsub.md)　[＊参考＊](https://cloud.google.com/pubsub/?hl=ja)
+
 ## ネットワーキング
 
 - [VPC](networking/vpc.md)　[＊参考＊](https://cloud.google.com/vpc/?hl=ja)
@@ -39,6 +45,12 @@ https://cloud.google.com/products/?hl=ja
 - [API アナリティクス](api-platform/apianalytics.md)　[＊参考＊](https://cloud.google.com/api-analytics/?hl=ja)
 - [Cloud Endpoints](api-platform/cloudendpoints.md)　[＊参考＊](https://cloud.google.com/endpoints/?hl=ja)
 
+## デベロッパーツール
+
+- [Container Registry](gcr.md)　[＊参考＊](https://cloud.google.com/container-registry/?hl=ja)
+- [Cloud Build](cbuild.md)　[＊参考＊](https://cloud.google.com/cloud-build/?hl=ja)
+- [Cloud Source Repositories](csrcrepo.md)　[＊参考＊](https://cloud.google.com/source-repositories/?hl=ja)
+
 ## 管理ツール
 
 - [Stackdriver](management/sd.md)　[＊参考＊](https://cloud.google.com/deployment-manager/?hl=ja)
@@ -48,12 +60,6 @@ https://cloud.google.com/products/?hl=ja
 - [Stackdriver Trace](management/sdtrace.md)　[＊参考＊](https://cloud.google.com/trace/?hl=ja)
 - [Stackdriver Debugger](management/sddebugger.md)　[＊参考＊](https://cloud.google.com/debugger/?hl=ja)
 - [Cloud Deployment Manager](management/cdm.md)　[＊参考＊](https://cloud.google.com/deployment-manager/?hl=ja)
-
-## ビッグデータ
-
-- [BigQuery](big-data/bq.md)　[＊参考＊](https://cloud.google.com/bigquery/?hl=ja)
-- [Cloud Dataflow](big-data/dataflow.md)　[＊参考＊](https://cloud.google.com/dataflow/?hl=ja)
-- [Cloud Pub/Sub](big-data/pubsub.md)　[＊参考＊](https://cloud.google.com/pubsub/?hl=ja)
 
 ## Cloud AI
 
@@ -66,12 +72,6 @@ https://cloud.google.com/products/?hl=ja
 - [](data-transfer/)　[＊参考＊]()
 - [](data-transfer/)　[＊参考＊]()
 - [](data-transfer/)　[＊参考＊]()
-
-## デベロッパーツール
-
-- [Container Registry](gcr.md)　[＊参考＊](https://cloud.google.com/container-registry/?hl=ja)
-- [Cloud Build](cbuild.md)　[＊参考＊](https://cloud.google.com/cloud-build/?hl=ja)
-- [Cloud Source Repositories](csrcrepo.md)　[＊参考＊](https://cloud.google.com/source-repositories/?hl=ja)
 
 ## 生産性向上ツール
 
