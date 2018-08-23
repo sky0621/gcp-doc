@@ -68,3 +68,12 @@ sql-2017-web-windows-2016-dc-v20180710                windows-sql-cloud  sql-web
 $ gcloud compute --project "xxxxxxxx" ssh --zone "asia-northeast1-a" "instance-1"
 </pre>
 
+### プリエンプティブVMインスタンスの生成
+
+https://cloud.google.com/compute/docs/instances/preemptible?hl=ja
+<pre>
+$ gcloud compute instances create my-preempt --zone asia-northeast1-c --preemptible
+Created [https://www.googleapis.com/compute/v1/projects/xxxxxxxx/zones/asia-northeast1-c/instances/my-preempt].
+NAME        ZONE               MACHINE_TYPE   PREEMPTIBLE  INTERNAL_IP       EXTERNAL_IP      STATUS
+my-preempt  asia-northeast1-c  n1-standard-1  true         xxx.xxx.xxx.xxx   xxx.xxx.xxx.xxx  RUNNING
+</pre>
