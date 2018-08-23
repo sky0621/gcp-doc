@@ -62,3 +62,9 @@ sql-2017-express-windows-2016-dc-v20180710            windows-sql-cloud  sql-exp
 sql-2017-standard-windows-2016-dc-v20180710           windows-sql-cloud  sql-std-2017-win-2016                         READY
 sql-2017-web-windows-2016-dc-v20180710                windows-sql-cloud  sql-web-2017-win-2016                         READY
 </pre>
+
+### VMインスタンスにSSHログイン
+<pre>
+$ gcloud compute --project "xxxxxxxx" ssh --zone "asia-northeast1-a" "instance-1"
+</pre>
+

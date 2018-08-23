@@ -15,3 +15,7 @@
 ## link
 
 - [リンク集](link.md)
+
+## Qualifying examination
+
+- [資格試験について](QualifyingExamination.md)
