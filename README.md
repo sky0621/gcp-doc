@@ -1,5 +1,9 @@
 # gcp-doc
 
+## essence
+
+- [エッセンス](essence.md)
+
 ## products
 
 - [カテゴリ別サービス群](products/README.md)
