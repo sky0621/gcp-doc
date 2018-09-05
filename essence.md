@@ -148,3 +148,36 @@ Dockerイメージを管理するため
 
 https://cloud.google.com/container-registry/docs/concepts?authuser=0&hl=ja
 
+## GCB (Google Cloud Build)
+
+### ■要するに？
+
+GCPインフラ上でのビルド
+
+## GCSR (Cloud Source Repositories)
+
+### ■要するに？
+
+GCPインフラ上のプライベートGitリポジトリ
+
+### ■何のため？
+
+GCP上の他のビルド・デプロイサービスと連携しやすい形でソース管理するため
+
+### ■キーワード
+
+- GCBやGAE、Stackdriver、Cloud Pub/Subと連携
+- 無料で無制限にリポジトリ作成可能
+- GitHubリポジトリからコードをミラーリング
+- GCSRへの変更のpushをトリガーにGCBでビルド・テスト実行可能
+- コード検索機能（ベータ）
+
+### ■コンセプト
+
+https://cloud.google.com/source-repositories/docs/concepts?hl=ja
+
+
+
+
+
+
