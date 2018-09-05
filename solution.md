@@ -16,3 +16,13 @@ Google は、Google.com、YouTube、Gmail などのサイトのコンテンツ�
 ### 静的ウェブサイトのホスティング
 
 Cloud Storage は HTTP でのみコンテンツを配信します。HTTPS での配信が必要な場合は、次のセクションの Firebase Hosting をご覧ください。
+https://cloud.google.com/solutions/web-serving-overview?hl=ja#firebase_hosting
+
+#### Firebase Hosting
+- SSL組み込み済み
+- カスタムドメインのSSL証明書を無料プロビジョニング
+- 全コンテンツがHTTPS経由
+- 世界中のCDNエッジから配信
+
+
+
