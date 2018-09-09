@@ -85,20 +85,3 @@
 |  |  |
 |  |  |
 |  |  |
-
-## ■ベストプラクティス
-
-| Service | Link |
-| :-- | :-- |
-| Cloud Datastore | https://cloud.google.com/datastore/docs/best-practices?hl=ja |
-| Cloud Storage |  |
-| Cloud SQL |  |
-| Cloud Bigtable |  |
-| Cloud Spanner |  |
-| BigQuery |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |

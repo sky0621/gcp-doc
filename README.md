@@ -16,6 +16,10 @@
 
 - [gcloudコマンド使用集](gcloud/README.md)
 
+## best practice
+
+- [ベストプラクティス集](bestpractice.md)
+
 ## link
 
 - [リンク集](link.md)
