@@ -1,0 +1,19 @@
+# see https://cloud.google.com/deployment-manager/docs/configuration/supported-resource-types
+resources:
+- type: compute.v1.instance
+  name: quickstart-deployment-vm
+  properties:
+    zone: us-central1-f
+    machineType: https://www.googleapis.com/compute/v1/projects/fs-work-1978/zones/us-central1-f/machineTypes/f1-micro
+    disks:
+    - deviceName: boot
+      type: PERSISTENT
+      boot: true
+      autoDelete: true
+      initializeParams:
+        sourceImage: https://www.googleapis.com/compute/v1/projects/debian-cloud/global/images/family/debian-9
+    networkInterfaces:
+    - network: https://www.googleapis.com/compute/v1/projects/fs-work-1978/global/networks/default
+      accessConfigs:
+        name: External NAL
+        type: ONE_TO_ONE_NAT
